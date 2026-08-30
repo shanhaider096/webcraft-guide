@@ -1,0 +1,1 @@
+document.querySelector('.menu').onclick=()=>document.querySelector('.links').classList.toggle('open');
